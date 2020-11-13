@@ -8,5 +8,5 @@
 
 * added a development folder to better organize the files
 
-![code refactor demo](./Develop/Assets/images/ScreenShot1.png)
-![code refactor demo](./Develop/Assets/images/ScreenShot2.png)
+![code refactor demo](./Develop/assets/images/ScreenShot1.png)
+![code refactor demo](./Develop/assets/images/ScreenShot2.png)
