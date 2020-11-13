@@ -8,4 +8,5 @@
 
 * added a development folder to better organize the files
 
-![code refactor demo](./Develop/Assets/01-html-css-git-homework-demo.png)
+![code refactor demo](./Develop/Assets/images/Screenshot1.png)
+![code refactor demo](./Develop/Assets/images/Screenshot2.png)
